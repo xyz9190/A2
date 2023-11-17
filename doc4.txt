@@ -1,0 +1,1 @@
+[WebLike gpt-3.5-turbo, GPT-4 is optimized for chat but works well for traditional completions tasks using the Chat completions API. Learn how to use GPT-4 in our GPT guide. Latest]
